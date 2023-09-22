@@ -76,3 +76,9 @@ flask run
 deactivate
 
 ```
+
+### RECURSO EXTRA
+
+instalacion de PostMan
+
+* [Postman](https://www.postman.com/downloads/)
