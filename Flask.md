@@ -70,3 +70,9 @@ python -m flask --version
 flask run
 
 ```
+
+6. Salir del entorno virtual:
+```
+deactivate
+
+```
