@@ -39,13 +39,16 @@ La instalación de Flask es un proceso relativamente sencillo que puede hacerse 
 2. Crear un Entorno Virtual (Opcional pero recomendado)
 
 ```
-python3 -m venv myenv
+python -m venv venv
 
 ```
 
 *  Activar el entorno virtual:
-    * Windows: myenv\Scripts\activate
+    * Windows: .\venv\Scripts\activate
     * Mac/Linux: source myenv/bin/activate
+
+* Salir del entorno virtual:
+    * deactivate
 
 3. Instalar Flask
 
@@ -58,5 +61,12 @@ pip install Flask
 
 ```
 python -m flask --version
+
+```
+
+5. Correr la aplicacion flask
+
+```
+flask run
 
 ```
