@@ -1,0 +1,1 @@
+estudiantes = [{'id': 1, 'nombre': 'Juan', 'apellido': 'Perez', 'edad': 20, 'carrera': 'Ingenieria en Sistemas'}, {'id': 2, 'nombre': 'Maria', 'apellido': 'Lopez', 'edad': 21, 'carrera': 'Ingenieria en Sistemas'}, {'id': 3, 'nombre': 'Pedro', 'apellido': 'Gonzalez', 'edad': 22, 'carrera': 'Ingenieria en Sistemas'}]
